@@ -1,0 +1,13 @@
+# temp build artifacts
+.check/
+.check2/
+_cppcheck/
+.tmp_build/
+*.exe
+*.out
+a.out
+
+# editor
+.vscode/
+.idea/
+*.swp
